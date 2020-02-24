@@ -1,0 +1,16 @@
+{
+  "name": "holiday",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "mongodb": "^3.5.3"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
